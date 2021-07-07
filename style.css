@@ -1,0 +1,41 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 45px;
+    color: rgb(80, 76, 71);
+      
+}
+
+.tomato-color{
+    color: tomato;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 100%;
+     
+}
+.color{
+    color: rgb(131, 125, 115);
+    font-size: 15px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 0%;
+    position: absolute;
+    top: 65%;
+}
+
+
+    
