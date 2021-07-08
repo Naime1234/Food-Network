@@ -8,7 +8,7 @@ h1{
       
 }
 h2{
-    font-size: 35px;
+    font-size: 30px;
     color: rgb(80, 76, 71);
 }
 
@@ -41,27 +41,45 @@ section{
     padding-right: 0%;
     padding-left: 0%;
   }
+   
+    
+  .center-tag h2 {
+    display: block;
+    margin-left: 47%;
+    margin-right: auto;
+    width: 50%;
+       
+  }
+
+  .color1{
+    color: rgb(131, 125, 115);
+    font-size: 15px;
+    text-align:center;
+      }
+ 
+      p {
+        color:rgb(131, 125, 115);
+        
+      }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.center-tag h2{
+    text-align:center;
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    margin-left: 50%;
+    margin-right: 0;
+    
+} 
+    .pargraph-to{
+       
+  
+        width: 80%;
+        padding-left: 38%;
+        text-align:center;
+    }
+    
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
@@ -148,4 +166,4 @@ button {
 }
 
 
-
+  
