@@ -164,6 +164,32 @@ button {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-
-
+.recipies-box{
+    width:30%;
+    margin-left: 5%;
+    margin-right: 4%;
+    box-shadow: 10px 10px 40px rgb(131, 125, 115);
+    padding-left:2%;
+    padding-right: %;
+    border-radius: 35px;
+    border: 1px solid lightblue;
+    height: 340px;
+     
+     
+}
+.recipies-box img{
+    width: 73%;
+    padding-left: 1%;
+    border: 1px solid #ddd;
+  border-radius: 50px;
+  padding: 20px;
   
+}
+.recipies-box h2{
+    font-size: 20px;
+    color: rgb(80, 76, 71);
+}
+.recipies-box p{
+    font-size: 10px;
+    color: rgb(107, 95, 80);
+}
